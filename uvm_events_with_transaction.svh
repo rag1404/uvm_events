@@ -1,3 +1,5 @@
+// In this program we will have one event trigger and 2 wait_triggers, to demonstrate the wait trigger on Multiple components and sending trigger with data
+
 import uvm_pkg::*;
 `include "uvm_macros.svh"
 program tb;
